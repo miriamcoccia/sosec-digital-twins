@@ -1,0 +1,95 @@
+/* General body styling */
+
+.stApp {
+    background-color: #03BDCA;
+}
+
+/* Title styling */
+.title-box {
+    background-color: #ffffff;
+    color: #e13d6b;
+    border: 2px solid #333333;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.title-box h1 {
+    margin: 0;
+    font-size: 50px;
+    color: #e13d6b;
+}
+
+/* Radio button and select box styling */
+.stRadio>div,
+.stSelectbox>div {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Button styling */
+.stButton>button {
+    background-color: #e13d6b;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 20px auto;
+    display: block;
+}
+
+.stButton>button:hover {
+    background-color: #f06292;
+    color: #333333;
+}
+
+/* Text area styling */
+.stTextArea {
+    background-color: #ffffff;
+    color: #333333;
+    border-radius: 10px;
+    border: 2px solid #333333;
+    padding: 10px;
+    font-size: 16px;
+}
+
+/* Centering text areas and adding padding */
+.stTextArea>label,
+.stMarkdown>div {
+    padding: 10px;
+}
+
+/* Box styling */
+.box {
+    background-color: #ffffff;
+    border: 2px solid #333333;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Header and paragraph colors inside boxes */
+.box h2 {
+    color: #e13d6b;
+}
+
+.box p {
+    color: #333333;
+}
+
+/* Persona information styling */
+.box .persona-info {
+    color: #333333;
+}
+
+/* Ordered list styling */
+.box ol {
+    color: #000000;
+    /* Items in the ordered list should be black */
+}

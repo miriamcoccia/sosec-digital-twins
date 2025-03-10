@@ -1,0 +1,24 @@
+name: Sync to GitLab
+
+on: [push]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Set up Git
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+
+    - name: Push to GitLab
+      env:
+        GITLAB_REPO: ${{ secrets.GITLAB_REPO }}
+        GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+      run: |
+        git remote add gitlab https://oauth2:${GITLAB_TOKEN}@${GITLAB_REPO}
+        git push gitlab main

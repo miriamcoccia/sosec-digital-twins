@@ -1,0 +1,151 @@
+{
+	"EU-Reformen und Erweiterung":{
+		"keywords":[
+			"EU-Reformen",
+			"EU-Erweiterung",
+			"EU-Politiken",
+			"EU-Integration",
+			"Brexit-Nachwirkungen"
+		],
+		"people_uris":[
+			"http://en.wikipedia.org/wiki/Ursula_von_der_Leyen",
+			"http://en.wikipedia.org/wiki/Charles_Michel"
+		],
+		"orgs_uris":[
+			"http://en.wikipedia.org/wiki/European_Commission",
+			"http://en.wikipedia.org/wiki/European_Council"
+		],
+		"source_location_uri":[
+			"http://en.wikipedia.org/wiki/Germany"
+		]
+	},
+	"Unterstützung für die Ukraine":{
+		"keywords":[
+			"Unterstützung für die Ukraine",
+			"Ukraine-Hilfe",
+			"Ukraine-Krieg",
+			"Russland-Ukraine-Konflikt",
+			"NATO-Unterstützung für die Ukraine",
+			"Russland",
+			"Waffenlieferung",
+			"Ukraineunterstützung"
+		],
+		"people_uris":[
+			"http://en.wikipedia.org/wiki/Olaf_Scholz",
+			"http://en.wikipedia.org/wiki/Annalena_Baerbock",
+			"https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy"
+		],
+		"orgs_uris":[
+			"http://en.wikipedia.org/wiki/NATO",
+			"http://en.wikipedia.org/wiki/Bundeswehr"
+		],
+		"source_location_uri":[
+			"http://en.wikipedia.org/wiki/Germany"
+		]
+	},
+	"Aufstieg der Rechtspolitik":{
+		"keywords":[
+			"Rechtspolitik",
+			"Alternative für Deutschland",
+			"Rechtsextremismus",
+			"populistische Bewegungen",
+			"AfD",
+			"Rechtsextreme"
+		],
+		"people_uris":[
+			"http://en.wikipedia.org/wiki/Alice_Weidel",
+			"http://en.wikipedia.org/wiki/Tino_Chrupalla"
+		],
+		"orgs_uris":[
+			"http://en.wikipedia.org/wiki/Alternative_for_Germany"
+		],
+		"source_location_uri":[
+			"http://en.wikipedia.org/wiki/Germany"
+		]
+	},
+	"Wirtschaftliche Herausforderungen":{
+		"keywords":[
+			"deutsche Wirtschaft",
+			"Inflation",
+			"Wirtschaftswachstum",
+			"Arbeitsmarkt in Deutschland",
+			"Wirtschaftspolitik",
+			"Armut"
+		],
+		"people_uris":[
+			"http://en.wikipedia.org/wiki/Christian_Lindner"
+		],
+		"orgs_uris":[
+			"http://en.wikipedia.org/wiki/Bundesbank",
+			"http://en.wikipedia.org/wiki/German_Chamber_of_Commerce"
+		],
+		"source_location_uri":[
+			"http://en.wikipedia.org/wiki/Germany"
+		]
+	},
+	"Koalitionspolitik":{
+		"keywords":[
+			"Koalitionspolitik in Deutschland",
+			"Regierungskoalition in Deutschland",
+			"SPD",
+			"CDU",
+			"FDP",
+			"Die Grünen",
+			"Regierung"
+		],
+		"people_uris":[
+			"http://en.wikipedia.org/wiki/Olaf_Scholz",
+			"http://en.wikipedia.org/wiki/Christian_Lindner",
+			"http://en.wikipedia.org/wiki/Robert_Habeck"
+		],
+		"orgs_uris":[
+			"http://en.wikipedia.org/wiki/Social_Democratic_Party_of_Germany",
+			"http://en.wikipedia.org/wiki/Christian_Democratic_Union_of_Germany",
+			"http://en.wikipedia.org/wiki/Free_Democratic_Party_(Germany)",
+			"http://en.wikipedia.org/wiki/Alliance_90/The_Greens"
+		],
+		"source_location_uri":[
+			"http://en.wikipedia.org/wiki/Germany"
+		]
+	},
+	"Verfassungsfragen":{
+		"keywords":[
+			"Verfassungsfragen",
+			"Grundgesetz",
+			"Verfassungsänderungen",
+			"richterliche Überprüfung",
+			"Verfassung"
+		],
+		"people_uris":[
+			"http://en.wikipedia.org/wiki/Frank-Walter_Steinmeier"
+		],
+		"orgs_uris":[
+			"http://en.wikipedia.org/wiki/Federal_Constitutional_Court"
+		],
+		"source_location_uri":[
+			"http://en.wikipedia.org/wiki/Germany"
+		]
+	},
+	"Einwanderung und Integration":{
+		"keywords":[
+			"Einwanderung",
+			"Flüchtlinge",
+			"Integrationspolitik",
+			"Asylbewerber",
+			"Migrantenintegration",
+			"Abschiebung",
+			"Migranten",
+			"Migration"
+		],
+		"people_uris":[
+			
+		],
+		"orgs_uris":[
+			"http://en.wikipedia.org/wiki/Federal_Office_for_Migration_and_Refugees",
+			"http://en.wikipedia.org/wiki/Pro_Asyl"
+		],
+		"source_location_uri":[
+			"http://en.wikipedia.org/wiki/Germany"
+		]
+	}
+}

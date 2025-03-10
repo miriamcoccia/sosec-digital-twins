@@ -1,0 +1,233 @@
+{
+    "US elections": {
+        "keywords": [
+            "US presidential elections",
+            "US elections",
+            "US presidency",
+            "2024 Elections",
+            "US President"
+        ],
+        "people_uris": [
+            "http://en.wikipedia.org/wiki/Joe_Biden",
+            "http://en.wikipedia.org/wiki/Donald_Trump"
+        ],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/Democratic_Party_(United_States)",
+            "http://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    },
+    "Economy": {
+        "keywords": [
+            "inflation",
+            "economy",
+            "wall street",
+            "job creation",
+            "taxes",
+            "economic policies",
+            "bidenomics"
+        ],
+        "people_uris": [
+            "http://en.wikipedia.org/wiki/Jerome_Powell"
+        ],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/Federal_Reserve_System",
+            "http://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    },
+    "Immigration and Border Security": {
+        "keywords": [
+            "illegal immigration",
+            "border control",
+            "border security",
+            "immigration policies"
+        ],
+        "people_uris": [],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/United_States_Department_of_Homeland_Security",
+            "http://en.wikipedia.org/wiki/United_States_Customs_and_Border_Protection"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    },
+    "Abortion": {
+        "keywords": [
+            "pro-life",
+            "pro-choice",
+            "abortion rights",
+            "Roe v. Wade",
+            "abortion policies"
+        ],
+        "people_uris": [],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/Planned_Parenthood",
+            "http://en.wikipedia.org/wiki/National_Right_to_Life_Committee"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    },
+    "Climate Change and Energy Policy": {
+        "keywords": [
+            "climate change",
+            "energy policy",
+            "renewable energy",
+            "fossil fuels"
+        ],
+        "people_uris": [],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/Environmental_Protection_Agency",
+            "http://en.wikipedia.org/wiki/Greenpeace"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    },
+    "Foreign Policy": {
+        "keywords": [
+            "China relations",
+            "Russia relations",
+            "Russia-Ukraine War",
+            "Israel-Hamas War"
+        ],
+        "people_uris": [
+            "http://en.wikipedia.org/wiki/Joe_Biden",
+            "http://en.wikipedia.org/wiki/Vladimir_Putin"
+        ],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/United_Nations",
+            "http://en.wikipedia.org/wiki/NATO"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    },
+    "Democracy and Election Integrity": {
+        "keywords": [
+            "democracy",
+            "election integrity",
+            "voter suppression"
+        ],
+        "people_uris": [
+            "http://en.wikipedia.org/wiki/Joe_Biden",
+            "http://en.wikipedia.org/wiki/Donald_Trump"
+        ],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/League_of_Women_Voters",
+            "http://en.wikipedia.org/wiki/Federal_Election_Commission"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    },
+    "Healthcare": {
+        "keywords": [
+            "healthcare",
+            "Affordable Care Act",
+            "health insurance"
+        ],
+        "people_uris": [
+            "http://en.wikipedia.org/wiki/Joe_Biden",
+            "http://en.wikipedia.org/wiki/Kathleen_Sebelius"
+        ],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/United_States_Department_of_Health_and_Human_Services",
+            "http://en.wikipedia.org/wiki/World_Health_Organization"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    },
+    "Education": {
+        "keywords": [
+            "school curriculums",
+            "parental involvement",
+            "college affordability"
+        ],
+        "people_uris": [
+            "http://en.wikipedia.org/wiki/Joe_Biden",
+            "http://en.wikipedia.org/wiki/Miguel_Cardona"
+        ],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/United_States_Department_of_Education",
+            "http://en.wikipedia.org/wiki/Teachers_College,_Columbia_University"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    },
+    "Gun Regulation": {
+        "keywords": [
+            "gun regulation",
+            "gun control policies",
+            "Second Amendment",
+            "gun rights",
+            "gun lobby"
+        ],
+        "people_uris": [
+            "http://en.wikipedia.org/wiki/Joe_Biden",
+            "http://en.wikipedia.org/wiki/Wayne_LaPierre"
+        ],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/National_Rifle_Association",
+            "http://en.wikipedia.org/wiki/Brady_Campaign"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    },
+    "Criminal Justice and Policing": {
+        "keywords": [
+            "criminal justice",
+            "policing policies",
+            "police reform",
+            "police brutality",
+            "racial profiling",
+            "criminality",
+            "prison"
+        ],
+        "people_uris": [
+            "http://en.wikipedia.org/wiki/Joe_Biden",
+            "http://en.wikipedia.org/wiki/Merrick_Garland"
+        ],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/Black_Lives_Matter",
+            "http://en.wikipedia.org/wiki/Police",
+            "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States",
+            "https://en.wikipedia.org/wiki/United_States_district_court"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    },
+    "LGBTQ+ Rights": {
+        "keywords": [
+            "LGBTQ+ rights",
+            "sex and gender issues",
+            "equality policies",
+            "transgender rights",
+            "pride month"
+        ],
+        "people_uris": [
+            "http://en.wikipedia.org/wiki/Joe_Biden",
+            "https://en.wikipedia.org/wiki/Janet_Yellen"
+        ],
+        "orgs_uris": [
+            "http://en.wikipedia.org/wiki/Human_Rights_Campaign",
+            "http://en.wikipedia.org/wiki/GLAAD",
+            "https://en.wikipedia.org/wiki/American_Medical_Association",
+            "https://en.wikipedia.org/wiki/American_Academy_of_Pediatrics",
+            "https://en.wikipedia.org/wiki/LGBT_rights_opposition",
+            "https://en.wikipedia.org/wiki/LGBT-Pride"
+        ],
+        "source_location_uri": [
+            "http://en.wikipedia.org/wiki/United_States"
+        ]
+    }
+}
